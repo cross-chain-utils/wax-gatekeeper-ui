@@ -1,6 +1,6 @@
 {
   "name": "@cross-chain-utils/wax-gatekeeper-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React components for interacting with a wax-gatekeeper server",
   "source": "src/Components.jsx",
   "type": "module",
